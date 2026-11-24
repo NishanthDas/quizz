@@ -1,0 +1,15 @@
+What keyword is used to define a function in Python?|def
+What is the standard file extension for Python script files?|.py,py
+Which data type is immutable: list or tuple?|tuple
+What function is used to get the number of items in a list or string?|len,len()
+What symbol is used for single-line comments in Python?|#,# symbol,hash
+What is the output of 3 ** 2 in Python?|9
+What built-in function is used to take input from a user in Python?|input,input()
+Which keyword is used to exit a loop early?|break
+What boolean value is returned by the expression 5 > 10?|False
+What string method converts all characters to lowercase?|lower,lower(),.lower()
+What data structure stores key-value pairs in Python?|dictionary,dict
+What keyword is used to import an external module in Python?|import
+What is the index of the first element in a Python list?|0,zero
+Which loop in Python is typically used to iterate over a sequence of items?|for,for loop
+What keyword is used to handle exceptions along with 'try'?|except
